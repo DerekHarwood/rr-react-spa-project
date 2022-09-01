@@ -11,9 +11,9 @@ function App() {
           <Container>
            <Nav className="me-auto">
              <Nav.Link className='NavbarLink' href="#home">Front Page</Nav.Link>
-             <Nav.Link className='NavbarLink' href="#features">Sports</Nav.Link>
-             <Nav.Link className='NavbarLink' href="#pricing">Entertanment</Nav.Link>
-             <Nav.Link className='NavbarLink' href="#pricing">Comics</Nav.Link>
+             <Nav.Link className='NavbarLink' href="#Sports">Sports</Nav.Link>
+             <Nav.Link className='NavbarLink' href="#Entertanment">Entertanment</Nav.Link>
+             <Nav.Link className='NavbarLink' href="#Comics">Comics</Nav.Link>
            </Nav>
           </Container>
          </Navbar>
